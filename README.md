@@ -1,0 +1,4 @@
+scaramangajs
+============
+
+Stealth project
